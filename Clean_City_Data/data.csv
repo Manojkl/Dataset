@@ -1,0 +1,51 @@
+"city","country","cleanCityScore","monocleQualityOfLifeRank","environmentalPerfScore","mercerQualityOfLifeScore","airPollutionPM25"
+"Auckland","New Zealand",71.97,,75.96,3,6
+"Melbourne","Australia",68.83,,74.12,16,8
+"Toronto","Canada",67.63,,72.18,16,8
+"London","United Kingdom",74.94,,79.89,40,9
+"New York","United States",74.89,,79.89,44,9
+"Phoenix","United States",66.19,,71.19,,9
+"Philadelphia","United States",65.59,,71.19,56,9
+"Madrid","Spain",72.66,10,78.39,51,10
+"Sapporo","Japan",68.89,,74.69,,10
+"Montreal","Canada",67.02,,72.18,23,10
+"Houston","United States",65.39,,71.19,67,10
+"Los Angeles","United States",64.99,,71.19,58,11
+"Curitiba","Brazil",53.62,,60.7,,11
+"Davao City","Philippines",51.24,,57.65,,11
+"Chicago","United States",64.39,,71.19,47,12
+"Porto Alegre","Brazil",52.3,,60.7,,13
+"Hamburg","Germany",71.32,9,78.37,19,14
+"Buenos Aires","Argentina",51.24,,59.3,93,14
+"Barcelona","Spain",70.46,17,78.39,42,15
+"Tokyo","Japan",70.09,1,74.69,47,15
+"Kyoto","Japan",66.05,12,74.69,,15
+"Yokohama","Japan",65.89,,74.69,51,15
+"Berlin","Germany",70.28,3,78.37,13,16
+"Nagoya","Japan",65.49,,74.69,63,16
+"Rio de Janeiro","Brazil",47.7,,60.7,118,16
+"Rome","Italy",67.96,,76.96,57,17
+"Osaka","Japan",64.89,,74.69,60,17
+"Cali","Colombia",53.53,,65.22,,17
+"Alexandria","Egypt",53.26,,61.21,,17
+"Paris","France",74.9,,83.95,38,18
+"Vienna","Austria",70.17,2,78.97,1,18
+"Singapore","Singapore",54.63,21,64.23,25,18
+"Fukuoka","Japan",63.89,14,74.69,,19
+"Taipei","Taiwan",63.45,,72.84,85,19
+"New Taipei City","Taiwan",63.44,,72.84,,19
+"São Paulo","Brazil",49.9,,60.7,121,19
+"Moscow","Russia",53.33,,63.79,168,20
+"Daejeon","South Korea",49.78,,62.3,,22
+"Kwangju","South Korea",49.7,,62.3,,22
+"Bucharest","Romania",54.04,,64.78,107,23
+"Bogotá","Colombia",50.04,,65.22,129,24
+"Daegu","South Korea",48.56,,62.3,,24
+"Seoul","South Korea",48.25,,62.3,76,24
+"Budapest","Hungary",54.21,,65.01,78,25
+"Caracas","Venezuela",49.4,,63.89,189,25
+"Warsaw","Poland",52.31,,64.11,81,26
+"Medellin","Colombia",50.91,,65.22,,26
+"Taichung","Taiwan",58.29,,72.84,101,29
+"Tainan","Taiwan",58.16,,72.84,,29
+"Kaohsiung","Taiwan",57.7,,72.84,,30
